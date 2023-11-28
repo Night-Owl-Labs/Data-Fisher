@@ -1,0 +1,11 @@
+// groups.js
+
+// All Groups
+const groupIDs = [
+    1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+];
+
+// Sample Size Test
+const groupIDsTest = [
+    1, 2, 3, 4, 5
+];
