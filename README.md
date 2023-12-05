@@ -1,7 +1,7 @@
 <!-- Begin README -->
 
 <div align="center">
-    <a href="https://scottgriv.github.io/vue-binary_converter/" target="_blank">
+    <a href="https://scottgriv.github.io/javascript-api_data_fisher" target="_blank">
         <img src="./docs/images/icon.png" width="200" height="200"/>
     </a>
 </div>
@@ -112,6 +112,7 @@ All emojis designed by [OpenMoji](https://openmoji.org/) – the open-source emo
 
 ## Resources
 
+- [JavaScript 3.8.3](https://www.javascript.com/) - `JavaScript` is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well.
 - [PapaParse 5.3.0](https://www.papaparse.com/) - Papa Parse is a powerful, in-browser CSV (Comma-Separated Values) parser for JavaScript. It's designed to handle various types of CSV data efficiently and provides a simple interface for parsing CSV files or strings in the client-side environment. Papa Parse is widely used in web applications to read and process CSV files, especially when dealing with large datasets or files.
 - [OpenMoji](https://openmoji.org/) - OpenMoji is the open-source emoji and icon project. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)
 - [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - `JavaScript` is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well.
@@ -132,7 +133,7 @@ This project is released under the terms of the **MIT License**, which permits u
 **Author:** [Scott Grivner](https://github.com/scottgriv) <br>
 **Email:** [scott.grivner@gmail.com](mailto:scott.grivner@gmail.com) <br>
 **Website:** [scottgrivner.dev](https://www.scottgrivner.dev) <br>
-**Reference:** [Main Branch](https://github.com/scottgriv/uwp-audio_recorder) <br>
+**Reference:** [Main Branch](https://github.com/scottgriv/javascript-api_data_fisher) <br>
 
 ---------------
 
