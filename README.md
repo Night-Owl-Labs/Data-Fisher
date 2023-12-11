@@ -18,7 +18,7 @@
 
 ---------------
 
-<h1 align="center">🎣🐟 API Data Fisher 🐟🎣</h1>
+<h1 align="center">🎣 API Data Fisher 🐟</h1>
 
 The data fisher is a single page web application that calls multiple `API` endpoints and returns the data in a `CSV` format.
 
